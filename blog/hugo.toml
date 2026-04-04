@@ -1,0 +1,10 @@
+baseURL = '/blog/'
+languageCode = 'en-us'
+title = "Max Cohn's Blog"
+theme = 'paper'
+
+[params]
+  color = 'linen'
+
+[permalinks]
+  posts = '/posts/:filename/'

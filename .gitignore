@@ -1,0 +1,30 @@
+# Hugo build output
+blog/public/
+blog/resources/
+
+# Hugo build lock file
+blog/.hugo_build.lock
+
+# Python cache
+__pycache__/
+*.pyc
+.python-version
+
+# UV/Python virtual environments
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
