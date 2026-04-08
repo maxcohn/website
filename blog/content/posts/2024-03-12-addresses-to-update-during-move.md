@@ -1,9 +1,9 @@
 ---
 date: '2024-03-12'
+layout: post
 publish: true
+title: '# Addresses to update when you move'
 ---
-
-# Addresses to update when you move
 
 I've moved way too many times and each time I do, I dread having to update my address for every service that requires it.
 I'm making myself a list so I don't forget for next time, and maybe someone else can use it too.
