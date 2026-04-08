@@ -1,9 +1,9 @@
 # Hugo build output
-blog/public/
-blog/resources/
+src/blog/public/
+src/blog/resources/
 
 # Hugo build lock file
-blog/.hugo_build.lock
+src/blog/.hugo_build.lock
 
 # Python cache
 __pycache__/
@@ -28,3 +28,5 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.bak
+
+.env

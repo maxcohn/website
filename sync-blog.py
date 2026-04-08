@@ -17,8 +17,8 @@ from pathlib import Path
 
 # Configuration
 OBSIDIAN_BLOG_DIR = Path.home() / "Documents" / "Main" / "Blog"
-HUGO_CONTENT_DIR = Path(__file__).parent / "blog" / "content" / "posts"
-HUGO_STATIC_DIR = Path(__file__).parent / "blog" / "static"
+HUGO_CONTENT_DIR = Path(__file__).parent / "src" / "blog" / "content" / "posts"
+HUGO_STATIC_DIR = Path(__file__).parent / "src" / "blog" / "static"
 
 def parse_frontmatter(content):
     """Extract and parse YAML frontmatter from markdown content."""

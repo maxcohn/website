@@ -1,8 +1,8 @@
 # Blog Setup
 
 This website uses a hybrid approach:
-- Root site ([index.html](index.html), [style.css](style.css)) is static HTML
-- Blog lives in `blog/` directory and is built with Hugo
+- Root site ([index.html](src/index.html), [style.css](src/style.css)) is static HTML
+- Blog lives in `src/blog/` directory and is built with Hugo
 
 ## Workflow
 
@@ -31,11 +31,13 @@ This script:
 
 ### 3. Build the blog
 ```bash
-cd blog
+./build.sh
+# Or manually:
+cd src/blog
 hugo
 ```
 
-This generates the static site in `blog/public/`
+This generates the static site in `src/blog/public/`
 
 ### 4. Deploy to your server
 
@@ -60,12 +62,12 @@ rsync -avz \
   --include='style.css' \
   --include='CNAME' \
   --exclude='*' \
-  /home/max/Code/website/ \
+  /home/max/Code/website/src/ \
   user@yourserver:/var/www/yoursite/
 
 # Deploy blog content
 rsync -avz --delete \
-  /home/max/Code/website/blog/public/ \
+  /home/max/Code/website/src/blog/public/ \
   user@yourserver:/var/www/yoursite/blog/
 ```
 
@@ -73,13 +75,13 @@ Or use a simpler approach with explicit file listing:
 ```bash
 # Deploy specific root files
 rsync -avz \
-  /home/max/Code/website/index.html \
-  /home/max/Code/website/style.css \
+  /home/max/Code/website/src/index.html \
+  /home/max/Code/website/src/style.css \
   user@yourserver:/var/www/yoursite/
 
 # Deploy blog content
 rsync -avz --delete \
-  /home/max/Code/website/blog/public/ \
+  /home/max/Code/website/src/blog/public/ \
   user@yourserver:/var/www/yoursite/blog/
 ```
 
@@ -87,7 +89,7 @@ rsync -avz --delete \
 
 To preview the blog locally:
 ```bash
-cd blog
+cd src/blog
 hugo server
 ```
 
@@ -97,16 +99,19 @@ Visit `http://localhost:1313/blog/`
 
 ```
 website/
-├── index.html              # Main homepage
-├── style.css               # Main styles
+├── README.md               # Project readme
+├── BLOG_README.md          # This file
+├── build.sh                # Build script
 ├── sync-blog.py            # Obsidian → Hugo sync script
-├── blog/                   # Hugo site
-│   ├── config.toml         # Hugo configuration
-│   ├── content/posts/      # Synced blog posts
-│   ├── static/assets/      # Synced images/assets
-│   ├── themes/paper/       # Minimal theme
-│   └── public/             # Built output (deploy this)
-└── BLOG_README.md          # This file
+└── src/                    # Website source files
+    ├── index.html          # Main homepage
+    ├── style.css           # Main styles
+    └── blog/               # Hugo site
+        ├── hugo.toml       # Hugo configuration
+        ├── content/posts/  # Synced blog posts
+        ├── static/assets/  # Synced images/assets
+        ├── themes/         # Hugo themes
+        └── public/         # Built output (deploy this)
 ```
 
 ## Notes
