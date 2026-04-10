@@ -15,6 +15,7 @@ import shutil
 import yaml
 from pathlib import Path
 
+#TODO: get these from env vars
 # Configuration
 OBSIDIAN_BLOG_DIR = Path.home() / "Documents" / "Main" / "Blog"
 HUGO_CONTENT_DIR = Path(__file__).parent / "src" / "blog" / "content" / "posts"

@@ -5,8 +5,6 @@ publish: true
 title: Patagonia Mini MLC 30L Packing and Sizing Data Points
 ---
 
-# Patagonia Mini MLC 30L Packing and Sizing Data Points
-
 This was primarily a test run with the Patagonia Mini MLC 30L.
 I'm visiting family in my home town via Southwest, so it was a low stress trip that I knew I had the ability to bring two bags on the plain with me.
 

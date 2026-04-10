@@ -1,3 +1,0 @@
-Abstract deploy to a script with paths and ssh config hosts
-
-Add looking for VAULT_PATH in env

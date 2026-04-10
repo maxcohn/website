@@ -15,5 +15,6 @@ rsync -avz --delete \
 rsync -avz \
   "$SCRIPT_DIR/src/index.html" \
   "$SCRIPT_DIR/src/style.css" \
+  "$SCRIPT_DIR/src/tools" \
   "${WEBSITE_SSH_HOST}:${WEBSITE_WWW_PATH}"
 
