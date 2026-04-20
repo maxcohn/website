@@ -1,5 +1,5 @@
 ---
-date: '2020-05-30'
+blog_file_name: 2020-05-30-taking-for-granted
 layout: post
 publish: true
 title: Taking things for granted

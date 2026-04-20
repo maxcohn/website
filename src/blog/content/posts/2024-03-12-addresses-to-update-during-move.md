@@ -1,5 +1,5 @@
 ---
-date: '2024-03-12'
+blog_file_name: 2024-03-12-addresses-to-update-during-move
 layout: post
 publish: true
 title: Addresses to update when you move

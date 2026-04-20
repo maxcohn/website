@@ -1,5 +1,5 @@
 ---
-date: '2020-05-10'
+blog_file_name: 2020-05-10-unix-image-comp
 layout: post
 publish: true
 title: 'Fun with UNIX: Mass image collection and compilation'

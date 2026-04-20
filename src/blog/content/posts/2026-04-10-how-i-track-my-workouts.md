@@ -1,5 +1,6 @@
 ---
-date: '2026-04-10'
+blog_file_name: 2026-04-10-how-i-track-my-workouts
+date: 2026-04-10
 layout: post
 publish: true
 title: How I track my workouts as markdown

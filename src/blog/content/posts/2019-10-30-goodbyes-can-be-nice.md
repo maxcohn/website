@@ -1,5 +1,5 @@
 ---
-date: '2019-10-30'
+blog_file_name: 2019-10-30-goodbyes-can-be-nice
 layout: post
 publish: true
 title: Goodbyes Can Be Nice

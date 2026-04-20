@@ -1,5 +1,5 @@
 ---
-date: '2020-04-15'
+blog_file_name: 2020-04-15-take-a-risk
 layout: post
 publish: true
 title: Take a Risk and Cut Your Own Hair

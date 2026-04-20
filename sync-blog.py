@@ -141,7 +141,9 @@ def sync_posts():
         new_content += body
 
         # Write to Hugo content directory
-        dest_file = HUGO_CONTENT_DIR / md_file.name
+        custom_name = frontmatter.get('blog_file_name', '')
+        dest_filename = f"{custom_name}.md" if custom_name else md_file.name
+        dest_file = HUGO_CONTENT_DIR / dest_filename
         with open(dest_file, 'w', encoding='utf-8') as f:
             f.write(new_content)
 
