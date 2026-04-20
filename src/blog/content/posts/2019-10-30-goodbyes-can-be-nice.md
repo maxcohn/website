@@ -1,5 +1,6 @@
 ---
 blog_file_name: 2019-10-30-goodbyes-can-be-nice
+date: 2019-10-30
 layout: post
 publish: true
 title: Goodbyes Can Be Nice

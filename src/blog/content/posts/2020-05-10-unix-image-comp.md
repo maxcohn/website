@@ -1,5 +1,6 @@
 ---
 blog_file_name: 2020-05-10-unix-image-comp
+date: 2020-05-10
 layout: post
 publish: true
 title: 'Fun with UNIX: Mass image collection and compilation'

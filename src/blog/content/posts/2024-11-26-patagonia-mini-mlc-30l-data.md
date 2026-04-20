@@ -1,5 +1,6 @@
 ---
 blog_file_name: 2024-11-26-patagonia-mini-mlc-30l-data
+date: 2024-11-26
 layout: post
 publish: true
 title: Patagonia Mini MLC 30L Packing and Sizing Data Points

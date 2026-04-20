@@ -1,5 +1,6 @@
 ---
 blog_file_name: 2024-03-12-addresses-to-update-during-move
+date: 2024-03-12
 layout: post
 publish: true
 title: Addresses to update when you move

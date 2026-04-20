@@ -1,5 +1,6 @@
 ---
 blog_file_name: 2020-05-30-taking-for-granted
+date: 2020-05-30
 layout: post
 publish: true
 title: Taking things for granted
