@@ -17,7 +17,7 @@ I figured others may benefit from this as well, so I captured a few different im
 
 The bag fully packed with an empty water bottle weighed in at 17.9lbs (8.1kg).
 
-![weighed bag](2024-11-26-weighed-bag.webp)
+![weighed bag](/blog/assets/2024-11-26-weighed-bag.webp)
 
 ### Packing list:
 
@@ -102,19 +102,19 @@ I couldn't capture an image of American Airlines because all of the sizers were 
 
 Never flown Breeze, so I'm not sure how they do it, but there was only one size (that appears to be the carry on) and it was obviously not an issue. Not sure if they have a separate personal item block.
 
-![Breeze sizer](2024-11-26-breeze-sizer.webp)
+![Breeze sizer](/blog/assets/2024-11-26-breeze-sizer.webp)
 
 ### United Airlines (maybe all of Star Alliance?)
 
 Slightly over in length and width. If they allow you to compress the bag at all, this wouldn't be an issue as a personal item.
 
-![United sizer](2024-11-26-united-sizer.webp)
+![United sizer](/blog/assets/2024-11-26-united-sizer.webp)
 
 ### Southwest
 
 Southwest doesn't seem to care about your person item at all since you get a carry on included as well. I've flown Southwest quite a bit my entire life and I've never seen them comment on anyone's bag (I'd argue they're _too_ loose with what they allow people to carry on after also allowing two checked bags free).
 
-![Southwest sizer](2024-11-26-southwest-sizer.webp)
+![Southwest sizer](/blog/assets/2024-11-26-southwest-sizer.webp)
 
 One issue is that they will often fill up the overhead bins early, so they'll begin gate checking carry ons, so I really wanted this to fit under the seat.
 
@@ -128,26 +128,26 @@ One observation I made is that if you're on the plane late enough to have to gat
 
 Example: https://www.reddit.com/r/onebag/comments/1abopnx/underseat_patagonia_mini_mlc_30/
 
-![Southwest underseat 1](2024-11-26-southwest-underseat-1.webp)
+![Southwest underseat 1](/blog/assets/2024-11-26-southwest-underseat-1.webp)
 
-![Southwest underseat 1](2024-11-26-southwest-underseat-2.webp)
+![Southwest underseat 1](/blog/assets/2024-11-26-southwest-underseat-2.webp)
 
 This third one specifically is the one I got confirmation from the flight attendant on.
 I made sure to move my feet so it could be compared to the feet of the chair it's under.
 
-![Southwest underseat 1](2024-11-26-southwest-underseat-3.webp)
+![Southwest underseat 1](/blog/assets/2024-11-26-southwest-underseat-3.webp)
 
 **Update:** I was able to try it on the window and middle seat on the way back.
 It fit sideways very easily with some wiggle room.
 This was great and it left a good bit of room for legs.
 
-![Southwest underseat sideways](2024-11-26-southwest-underseat-window.webp) 
+![Southwest underseat sideways](/blog/assets/2024-11-26-southwest-underseat-window.webp) 
 
 ### Jet Blue
 
 It ended up sticking out a bit over the top, but if I added a compression strap/tie, we're looking in the clear. This is also probably due to the straps being bent and pushing the bag up. If I tucked them away, I think this would be better.
 
-![JetBlue sizer](2024-11-26-jetblue-sizer.webp)
+![JetBlue sizer](/blog/assets/2024-11-26-jetblue-sizer.webp)
 
 ### Frontier
 
@@ -156,4 +156,4 @@ On the return flight, I was able to measure the bag in a Frontier bag sizer.
 With how full it was, it required a small amount of force.
 If it was packed a little less, then it likely would've slid in.
 
-![Frontier sizer](2024-11-26-frontier-sizer.webp)
+![Frontier sizer](/blog/assets/2024-11-26-frontier-sizer.webp)
